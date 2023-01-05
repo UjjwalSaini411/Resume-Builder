@@ -1,0 +1,37 @@
+
+  #cv-form {
+    /* display: none; */
+    /* margin-top: 10px; */
+  }
+  #cv-template {
+    display: none;
+  }
+  .myimg {
+    border: 1px solid rgb(171, 151, 151);
+    border-radius: 50%;
+    width: 200px;
+  }
+
+  #head{
+    background-color: rgb(245 163 236);
+    border-radius: 10px ;
+    
+  }
+  #head {
+    border-radius: calc(3.25rem - 1px) calc(16.25rem - 1px) 0 0;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  text-align-last: end;
+}
+.btn{
+  background-color: rgb(57, 107, 113);
+}
+.btn:hover{
+  background-color: rgb(24, 178, 201);
+
+}
+  
+
+
